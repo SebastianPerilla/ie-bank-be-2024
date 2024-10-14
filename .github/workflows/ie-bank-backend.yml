@@ -11,8 +11,8 @@ permissions:
   id-token: write
 
 env:
-  BACKEND_WEBAPP_DEV: sperilla-be-dev
-  BACKEND_WEBAPP_UAT: sperilla-be-uat
+  BACKEND_WEBAPP_DEV: sperilla1-be-dev
+  BACKEND_WEBAPP_UAT: sperilla1-be-uat
   
 
 jobs:
